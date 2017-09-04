@@ -59,7 +59,7 @@ public class ColorsFragment extends Fragment {
     }
 
     public ColorsFragment() {
-        // Required empty public constructo
+        // Required empty public constructor
 
     }
 
